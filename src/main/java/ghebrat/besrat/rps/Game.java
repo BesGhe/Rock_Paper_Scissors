@@ -2,7 +2,7 @@ package ghebrat.besrat.rps;
 
 //try to keep each method simple, ~5 lines
 
-import java.util.Locale;
+
 import java.util.Scanner;
 
 public class Game {
@@ -107,10 +107,7 @@ public class Game {
                             System.out.println("Uh uh, choose something correct! try again!");
                             break;
 
-
                     }
-
-
 
                     System.out.println("play again?");
 
